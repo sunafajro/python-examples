@@ -1,0 +1,15 @@
+print("operator: and")
+print(1 > 0 and 2 > 1)
+print(1 > 0 and 2 < 1)
+print(1 < 0 and 2 > 1)
+print(1 < 0 and 2 < 1)
+
+print("operator: or")
+print(1 > 0 or 2 > 1)
+print(1 > 0 or 2 < 1)
+print(1 < 0 or 2 > 1)
+print(1 < 0 or 2 < 1)
+
+print("operator: not")
+print(not 1 > 2)
+print(not 2 > 0)
